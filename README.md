@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ImeneDiffallah
-- 🌱 I’m currently learning computer science
+- 💻 I’m currently learning computer science
+
 
 <!---
 ImeneDiffallah/ImeneDiffallah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
