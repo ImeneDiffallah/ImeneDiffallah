@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @ImeneDiffallah
 - 💻 I’m currently learning computer science
+- 👨‍💻 Computer Science Student | 🌐 Web Developer | 📱 App Developer | 🎨 Digital Artist
+
+Passionate about creating innovative web and mobile applications. 
 
 
 <!---
